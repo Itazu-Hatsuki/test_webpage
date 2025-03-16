@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+html{
+    background-color: #c2deff;
+}
+
+h1{
+    font-size: large;
+    font-weight: 600;
+    
+}
+h2{
+    font-size: medium;
+    font-weight: 600;
+    color: #af011c;
+}
+img{
+    width: 500px;
+}
